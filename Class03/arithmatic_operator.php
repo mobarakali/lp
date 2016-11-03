@@ -29,4 +29,3 @@ $its_true = true;
 var_dump($its_true);
 
 echo( isset($tests) );
-

@@ -12,7 +12,23 @@ Brackets Snippets (by edc)
 PHP SmartHints
 PHP Syntax Hint
 
-
-
 Brackets WordPress Functions Hints
 Brackets Wordpress Hint
+
+
+// PHP Lessons
+
+3rd Class: Operators & Statements
+-	Arithmetic, Comparison & Logical Operator
+-	The string concatenation operator
+-	If Statements
+-	Switch Statement
+-	Escaping from HTML
+-	
+4th Class: Conditional Statements & Loops
+-	Break & Continue
+-	For Loop
+-	While Loop
+-	Do-While Loop
+-	If & Loop Alternative Code Style
+
