@@ -1,1 +1,18 @@
-Git 
+Plugins for Brackets
+
+Emmet
+Markdown Preview
+Autoprefixer -CSS
+Brackets Git
+Bracket Beautify
+Bracket Color Picker
+Autosave Files on Window Blur
+Brackets Snippets (by edc)
+
+PHP SmartHints
+PHP Syntax Hint
+
+
+
+Brackets WordPress Functions Hints
+Brackets Wordpress Hint
