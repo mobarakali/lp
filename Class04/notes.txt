@@ -28,7 +28,7 @@ Brackets Wordpress Hint
 -	If Alternative Code Style, Use : instead of {}
 
 4th Class: Conditional Statements & Loops
--	Break & Continue ##
+-	Break & Continue
 -	For Loop
 -	While Loop
 -	Do-While Loop
@@ -40,3 +40,5 @@ Brackest [ ]
 curly Brace/Brackets { }
 
 Task #1: Use All Days to in your code and print the current day usingn if and switch statements. Make sure you use 'escape html style' in your code.
+
+Task #2: Print the calender of Month of November 2016, inside a table using loops! Don't forget to style it properly using CSS.
