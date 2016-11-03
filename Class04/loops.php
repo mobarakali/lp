@@ -30,10 +30,12 @@
 			// WP Methode ?>
 				<ul>
 					<?php   while($i<10):  $i++; ?>
-
-						<li> List
-							<?php echo $i; ?>
-						</li>
+						<?php if(5 == $i): break;?>
+							<?php else: ?>
+								<li> List
+									<?php echo $i;  ?>
+								</li>
+							<?php endif; ?>
 						<?php endwhile; ?>
 				</ul>
 		</div>

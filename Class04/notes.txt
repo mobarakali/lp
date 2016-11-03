@@ -28,7 +28,7 @@ Brackets Wordpress Hint
 -	If Alternative Code Style, Use : instead of {}
 
 4th Class: Conditional Statements & Loops
--	Break & Continue
+-	Break & Continue ##
 -	For Loop
 -	While Loop
 -	Do-While Loop
