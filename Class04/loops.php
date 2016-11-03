@@ -30,7 +30,7 @@
 			// WP Methode ?>
 				<ul>
 					<?php   while($i<10):  $i++; ?>
-						<?php if(5 == $i): break;?>
+						<?php if(5 == $i): continue; // break; ?>
 							<?php else: ?>
 								<li> List
 									<?php echo $i;  ?>
