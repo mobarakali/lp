@@ -1,4 +1,9 @@
-# Headign 1
+# Class 02
 
-## Heading 2
+## ** PHP Language Basic **
 
+* Lexical Structure
+* Identifier (ie. keywords);
+* Literals
+* Datatype
+* Variable 
