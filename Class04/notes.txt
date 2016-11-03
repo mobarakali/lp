@@ -37,3 +37,5 @@ Brackets Wordpress Hint
 Braces ()
 Brackest [ ]
 curly Brace/Brackets { }
+
+Task #1: Use All Days to in your code and print the current day usingn if and switch statements. Make sure you use 'escape html style' in your code.
