@@ -15,6 +15,7 @@ PHP Syntax Hint
 Brackets WordPress Functions Hints
 Brackets Wordpress Hint
 
+// https://codex.wordpress.org/WordPress_Coding_Standards
 
 // PHP Lessons
 
@@ -32,3 +33,7 @@ Brackets Wordpress Hint
 -	Do-While Loop
 -	If & Loop Alternative Code Style
 
+
+Braces ()
+Brackest [ ]
+curly Brace/Brackets { }
