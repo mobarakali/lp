@@ -35,12 +35,12 @@
 -	Do-While Loop
 -	Loop Alternative Code Style
 * * *
-Different Names of Brackets.
-+  Braces ()
-+  Brackest [ ]
-+  curly Brace/Brackets { }
+**What you know about the brackets names are _WRONG!_.**
++  Braces **( )**
++  Brackest **[  ]**
++  curly Brace/Brackets **{  }**
 - - - 
 
-`` Task #1: Use All Days to in your code and print the current day usingn if and switch statements. Make sure you use 'escape html style' in your code.
+**Task #1:** Use All Days to in your code and print the current day usingn if and switch statements. Make sure you use 'escape html style' in your code.
 
-Task #2: Print the calender of Month of November 2016, inside a table using loops! Don't forget to style it properly using CSS.
+**Task #2:** Print the calender of Month of November 2016, inside a table using loops! Don't forget to style it properly using CSS.
