@@ -98,12 +98,19 @@
 		echo "<strong> $input </strong>";
 	}
 
+
+
+
 	$str1 = "Today is not hollyday!";
 	echo $str1;
 	br();
 	bold($str1);
 	br();
 	bold('I want to meke this bold!');
+
+
+$store_value = bold();
+		var_dump($store_value);
 
 	// Functions with two argument
 	function htmlElement($input, $element){
