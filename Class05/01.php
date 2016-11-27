@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<style>
-		.example{
+		.example {
 			margin-left: 50px;
 			background: khaki;
 			padding: 15px;
 		}
 
-		pre{
+		pre {
 			padding: 10px;
 			background: #eee;
 			color: #666;
@@ -18,6 +19,7 @@
 
 	</style>
 </head>
+
 <body>
 	<h1>PHP Functions</h1>
 	<h2>Why Functions</h2>
@@ -31,7 +33,7 @@
 	FunctionName();
 	</pre>
 	<div class="example">
-	<?php
+		<?php
 	$num = 3;
 	echo"This is a php file."; br();
 	echo"Today I will learn functin."; br();
@@ -48,7 +50,7 @@
 	</div>
 	<h2>Function parameter</h2>
 	<dl>
-	<dt>Task</dt>
+		<dt>Task</dt>
 		<dd>We want to create a function that will take argument and output as html element provided in the function.</dd>
 	</dl>
 	<pre>
@@ -90,16 +92,13 @@
 	makeHtml($str1);
 	</pre>
 	<div class="example">
-	<?php
+		<?php
 
 	// Making a function with a single argument
 	function bold($input){
 		//This will make everything bold!
 		echo "<strong> $input </strong>";
 	}
-
-
-
 
 	$str1 = "Today is not hollyday!";
 	echo $str1;
@@ -140,7 +139,7 @@ $store_value = bold();
 
 	<h2>Function Returning Value</h2>
 	<dl>
-	<dt>Task#3</dt>
+		<dt>Task#3</dt>
 		<dd>Function returns value.</dd>
 	</dl>
 	<?php
@@ -168,11 +167,12 @@ $store_value = bold();
 
 	?>
 
-	<pre>
+		<pre>
 	</pre>
-	<div class="example">
-	</div>
+		<div class="example">
+		</div>
 </body>
+
 </html>
 
 <?php
