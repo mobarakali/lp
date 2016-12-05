@@ -1,1 +1,1 @@
-<?php echo 'This file is without ending PHP tag!'
+<?php echo 'This file is without ending PHP tag!';
