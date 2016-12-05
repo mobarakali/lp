@@ -7,9 +7,10 @@
 </head>
 
 <body>
-	<p>This is a php file!</p>
+	<!--<p>This is a php file!</p>-->
     <?php
-        print '<p>This is inside php!</p>'; // this is comment  ?>
+        print '<p>This is inside php! OK</p>'; # this is comment
+        print '<p>This is inside php! OK</p>'; # this is comment  ?>
         <?php  ?> 
 </body>
 
