@@ -1,6 +1,6 @@
 <?php
 
-/* 
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -18,10 +18,10 @@ var_dump($test);
 
 $num = 5;
 $num*=5;
-//$num = $num * 5; 
+//$num = $num * 5;
 echo $myMoney, $num ;
 
-#debug 
+#debug
 var_dump($num);
 var_dump($myMoney);
 $its_true = true;
